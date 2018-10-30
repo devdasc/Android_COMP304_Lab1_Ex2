@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DevdasChatterjee_COMP304_Lab1_Ex2</string>
+    <string name="NameTextView">Devdas Chatterjee</string>
+    <string name="PrgTextView">Software Eng Technology</string>
+    <string name="SemTextView">Sem 6</string>
+    <string name="CourseTextView">Android Development</string>
+</resources>
